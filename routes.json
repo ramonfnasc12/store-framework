@@ -1,0 +1,13 @@
+{
+  "/about-us": {
+    "handler": "vtex.render-server/render",
+    "headers": {
+      "x-vtex-render-domain": "store",
+      "x-vtex-render-path-id": "/about-us"
+    },
+    "path": "/about-us",
+    "public": true,
+    "version": "3.6.0",
+    "releasedAt": 1562247845315
+  }
+}
